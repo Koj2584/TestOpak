@@ -1,0 +1,11 @@
+G:\TestOpak\TestOpak\bin\Debug\TestOpak.exe.config
+G:\TestOpak\TestOpak\bin\Debug\TestOpak.exe
+G:\TestOpak\TestOpak\bin\Debug\TestOpak.pdb
+G:\TestOpak\TestOpak\obj\Debug\TestOpak.csproj.AssemblyReference.cache
+G:\TestOpak\TestOpak\obj\Debug\TestOpak.csproj.SuggestedBindingRedirects.cache
+G:\TestOpak\TestOpak\obj\Debug\TestOpak.Form1.resources
+G:\TestOpak\TestOpak\obj\Debug\TestOpak.Properties.Resources.resources
+G:\TestOpak\TestOpak\obj\Debug\TestOpak.csproj.GenerateResource.cache
+G:\TestOpak\TestOpak\obj\Debug\TestOpak.csproj.CoreCompileInputs.cache
+G:\TestOpak\TestOpak\obj\Debug\TestOpak.exe
+G:\TestOpak\TestOpak\obj\Debug\TestOpak.pdb
